@@ -9,9 +9,10 @@ export default function Home() {
 
       {/* Main Content */}
       <div className="w-full md:w-2/4 p-6 bg-white mx-auto rounded-lg shadow-md">
-        <h1 className="text-3xl font-bold text-blue-700 border-b-2 border-gray-200 pb-2 text-center">
-          JavaScript: A Complete Beginner's Guide
-        </h1>
+      <h1 className="text-3xl font-bold text-blue-700 border-b-2 border-gray-200 pb-2 text-center">
+  JavaScript: A Complete Beginner&apos;s Guide
+</h1>
+
         <p className="mt-4 text-gray-700">
           JavaScript is a foundational technology in web development, enabling everything from interactive buttons to complex web applications. If you’re new to programming, JavaScript is one of the best languages to start with, thanks to its straightforward syntax, wide support, and endless resources. This guide covers the basics of JavaScript, so let’s dive in!
         </p>
